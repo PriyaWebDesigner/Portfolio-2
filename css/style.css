@@ -9420,7 +9420,8 @@ textarea.form-control {
     text-transform: uppercase; }
 
 .contact-section .contact-form:hover {
-  width: 100%; }
+  width: 100%;
+ }
 
 .contact-section .img {
   width: 100%;
